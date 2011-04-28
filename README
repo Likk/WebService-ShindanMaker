@@ -1,5 +1,10 @@
 This is Perl module WebService::ShindanMaker.
 
+HOW TO USE
+
+$ git clone git://github.com/Likk/WebService-ShindanMaker.git WebService-ShindanMaker
+$ perl WebService-ShindanMaker/example/tweet.pl 113926
+
 INSTALLATION
 
 WebService::ShindanMaker installation is straightforward. If your CPAN shell is set up,
